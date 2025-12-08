@@ -17,7 +17,9 @@
 
 ## 📸 Screenshots
 
-*(You can drag and drop your screenshots here on GitHub)*
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/30afd44b-5bfc-429e-8c8f-f473d679b36c" />
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d08e88a5-cc92-4605-ac22-23389ca0864d" />
 
 ## 🚀 Installation
 
